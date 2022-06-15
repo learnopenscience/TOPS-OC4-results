@@ -9,18 +9,11 @@ The OpenCore is part of the TOPS mission Area 2: Capacity Sharing. In the first 
 2. Tools and Resources
 3. Open Data
 4. Open Software
-5. Open Results
+5. Open Results <-- this module
 
 Course curriculum leads will get a link to make a new repository under the GitHub organization [learnopenscience](http://github.com/learnopenscience) with the contents of this template reproduced, and admin permissions granted automatically. 
 
 Next actions:
-
-- change the repository name to the module identifier as follows: 
-  - TOPS-OC1-ethos
-  - TOPS-OC2-tools
-  - TOPS-OC3-data
-  - TOPS-OC4-code
-  - TOPS-OC5-results
 
 - add contributors (subject matter experts) as collaborators
 - begin replacing the sample content in the lesson files with your own material
