@@ -20,4 +20,4 @@ Check only one:
 ** Note: Please do not submit spelling and grammar issues ** (copyediting will follow)
 
 ## Get Credit
-In order to get credit for your issue(s)
+In order to get credit for your issue(s), register at [https://forms.gle/UAedD4J6raxbfvnH8](https://forms.gle/UAedD4J6raxbfvnH8).
