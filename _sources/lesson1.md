@@ -1,43 +1,28 @@
-# Lesson 1: using Markdown
+# Lesson 1: The Research Process and Its Results
 
-In the module template, we use the `lesson1.md` file as a sample lesson, and introduce you to the flavor of Markdown that you will use to write the content, called **MyST Markdown**.
+## What are the different stages of the research process?
 
-Whether you write module content content in Jupyter Notebooks (`.ipynb`) or
-in regular markdown files (`.md`), you'll write in the same flavor of Markdown.
-This file shows some example syntax.
+1. Define research stages: ideation, planning, project design, data collection, data processing, data analysis, reporting & publication, preservation and reuse, scientific engagement (Figure 1) 
+	* Ensure consistency amongst lessons and modules, esure briefness to not lose scientific audience well-versed in the scientific process
+2. What results are commonly associated with the research stages?
+	* Provide examples of results associated with each research stage.
+	* Describe how results that are digital can be made open and discoverable and are known as “digital research objects” 
+	* Tools Module has 6 categories of ROs and we need to be consistent: data, protocols, materials, code, results, other
+	* Showcase what research objects are possible outcomes of the research process (Table 1) 
 
-## What is MyST?
-
-MyST stands for "Markedly Structured Text". It
-is a variation on so-called "CommonMark" markdown,
-with some syntax extensions to allow you to write **roles** and **directives**.
-These offer customization and styling for the final content.
-For example, you can use a directive to get a nicely formatted *Note*  box in the final document like this:
-
-````
-```{note}
-Here is a note
-```
-````
-
-Other directives can produce styled boxes for: *Warning*, *Caution*, *See also*, and *Tip*.
-
-Roles are like in-line commands, for example to introduce citations (see below) or internal links to other parts of the lessons. If you know LaTeX, you can think of directives as environments and roles as macros.
-
-:::{seealso}
-Learn more about MyST by exploring the JupyterBook documentation: [MyST Markdown Overview](https://jupyterbook.org/content/myst.html).
-:::
+| Table 1. Results produced by different stages of the research process   |                                    |                     |
+|-------------------------------------------------------------------------|------------------------------------|---------------------|
+| Stages                                                                  | Possible Outcomes/Research objects | Publishable Results |
+| Ideation & conceptualization                                            |                                    |                     |
+| Planning                                                                |                                    |                     |
+| Project design                                                          |                                    |                     |
+| Data collection                                                         |                                    |                     |
+| Data wrangling and processing                                           |                                    |                     |
+| Data exploration & analysis                                             |                                    |                     |
+| Communication and collaboration (engagement training, and feedback)     |                                    |                     |
+| Preservation and reuse                                                  |                                    |                     |
+| Reporting, publication                                                  |                                    |                     |
 
 
-## Citations
-
-You can cite references from a `bibtex` file using `{cite}` roles. Several in-line citation styles are possible.
-See the variations in the JupyterBook documentation: [Change the in-line citation style](https://jupyterbook.org/en/stable/content/citations.html#change-the-in-line-citation-style).
-
-To insert a bibliography into your page, you will use the `{bibliography}` directive. For example, if the references for your module are stored in `references.bib`, you indicate this file name in the `_config.yml` and
-then insert the bibliography with:
-
-````
-```{bibliography}
-```
-````
+## Assessment: Identify the research objects in a case study 
+## Self-assessment: Identify the research objects of a project you are/were involved in 
