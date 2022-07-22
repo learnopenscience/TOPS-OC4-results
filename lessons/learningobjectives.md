@@ -1,15 +1,16 @@
 # Learning Objectives
 
-Each module needs to have learning objectives, a list of 3 to 5 expected new skills or behaviors for the learners who complete the module.
+1. Identify research stages and elements of research objects that can be considered results
 
-For example, the module on Ethos of Open Science can have as one learning objective:
+2. Identify the guiding practices and principles related to open results and the advantages of implementing them across stages of a research process
 
-- Communicate and interpret the benefits and barriers of Open Science both individually and for community
+3. Apply open result principles to new and ongoing research projects
 
-Here, the verbs "communicate" and "interpret" represent new capacities that learners gain from experiencing the module through its content and activities.
+4. Identify paths for publicly communicating results
 
-Some people like to use the so-called [SMART criteria](https://en.wikipedia.org/wiki/SMART_criteria) to guide drafting of learning objectives.
-It is a mnemonic for *specific*, *measurable*, *achievable*, *relevant*, and *time-bound*.
-Most important is to focus on the learners (not the content): what will they be able to do differently after completing the module?
+5. Create open results contributor guidelines and opportunities for open and equitable collaborations
 
-Use this Markdown file replacing this guidance with your learning objectives.
+6. Give credit to contributors in open results
+
+7. Contribute and provide constructive feedback to others’ results
+
