@@ -1,4 +1,4 @@
-# Results in the Context of Open Science
+# Lesson 2: Results in the Context of Open Science
 
 ## What are the advantages of making results open throughout the research process? 
 
