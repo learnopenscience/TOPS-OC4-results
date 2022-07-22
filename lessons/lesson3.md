@@ -1,27 +1,41 @@
-# Lesson 3: Anatomy of a module
+# Lesson 3: Applying Open Result Framework to your Research 
 
-Each module has an introduction (in the `intro.md` file), learning objectives, written lessons, references, videos and knowledge checks and assessments. 
-Use this template repository to fill in the written content. 
+## How to apply an open framework across different research object
+1. Checklist for identifying the right platform for your ROs (link to Tools and expand on areas not covered in tools). For example: Does it assign a DOI? Does it enable licensing? Does it have metadata handling? 
 
-Suppose the module has 5 lessons, each designed for 30 minutes of learning time. There are 4,500 words in a 30-minute speech, so you might use that as an upper bound for the written content of each lesson. It should be shorter than that when you add a short video and an assessment or activity.
+## How to share your results, and select tools that support open science?
 
-Here is one possible lesson structure (with 5 lessons per module):
+| Table 3. Platforms for open results                                 |                                          |                                                         | Accessible | Interpretable | Reusable |
+|---------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------|------------|---------------|----------|
+| Stages                                                              | Example(s) of a research object produced | Possible locations and platforms to release and get DOI |            |               |          |
+| Ideation & conceptualization                                        |                                          |                                                         |            |               |          |
+| Planning                                                            |                                          |                                                         |            |               |          |
+| Project design                                                      |                                          |                                                         |            |               |          |
+| Data collection                                                     |                                          |                                                         |            |               |          |
+| Data wrangling and processing                                       |                                          |                                                         |            |               |          |
+| Data exploration & analysis                                         |                                          |                                                         |            |               |          |
+| Communication and collaboration (engagement training, and feedback) |                                          |                                                         |            |               |          |
+| Preservation and reuse                                              |                                          |                                                         |            |               |          |
+| Reporting, publishing                                               |                                          |                                                         |            |               |          |
 
-- 2,500 to 3,000 words of written content
-- 5-min video
-- 5 minutes estimated time in a recall activity
+## Using a checklist to achieve open results
 
-In this case, you will want to use plenty of sub-headings to chunk the written material. Another option is to have more, shorter lessons.
-For example:
+| Table 4. Platforms for open results                                 |                                          |          |            |               |          |
+|---------------------------------------------------------------------|------------------------------------------|----------|------------|---------------|----------|
+| Stages                                                              | Example(s) of a research object produced | Findable | Accessible | Interpretable | Reusable |
+| Ideation & conceptualization                                        |                                          |          |            |               |          |
+| Planning                                                            |                                          |          |            |               |          |
+| Project design                                                      |                                          |          |            |               |          |
+| Data collection                                                     |                                          |          |            |               |          |
+| Data wrangling and processing                                       |                                          |          |            |               |          |
+| Data exploration & analysis                                         |                                          |          |            |               |          |
+| Communication and collaboration (engagement training, and feedback) |                                          |          |            |               |          |
+| Preservation and reuse                                              |                                          |          |            |               |          |
+| Reporting, publishing                                               |                                          |          |            |               |          |
 
-- 8 lessons of 15 minutes reading time each
-- five 3-min videos
-- 15 minutes in estimated time for recall activities
 
-## Video
+## Assesment: Case Study Analysis 
+1. From Lesson 3, consider the three highest priority research objects that could benefit from openness:
+	* Identify possible platforms where these research object could be hosted 
+	* Identify any modifications to this research objects that would enable it to abide by principles of openness 
 
-The use of video can be sparse, but it is effective for giving the pig picture, creating a human connection with learners, and helping to keep them on track.
-
-What is important is that video should be included deliberately in support of the learning objectives. The advice in ["Using Video in Online Classes"](https://canvas.ucdavis.edu/courses/34528/pages/using-video-in-online-classes) in the Indiana University course on teaching online is very good.
-
-After you have a design for the module structure (number of lessons and length), and a first draft, begin to think where a video could be helpful. The TOPS Curriculum team will work with you to define scope and format for any videos. When the time comes to record them, you'll have professional production support.
