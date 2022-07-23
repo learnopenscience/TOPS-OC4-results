@@ -8,4 +8,5 @@
 - [Anne Fouilloux](https://www.linkedin.com/in/annefouilloux/) (Subject Matter Expert)
 - [Reina Camacho Toro](https://www.linkedin.com/in/reina-camacho-toro-b3279762/) (Subject Matter Expert)
 - [Elio Campitelli](https://eliocamp.github.io/) (Subject Matter Expert)
+- [Chris Erdmann](https://www.linkedin.com/in/christopher-erdmann-1213a456/) (TOPS Team, AGU)
 - Transform to Open Science (TOPS) Team
